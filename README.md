@@ -19,6 +19,7 @@ install.packages(c(
 
 ## Suggested run order
 
+0. `R/00_project_setup.R`
 1. `R/analysis/01_fit_release_first_order.R`
 2. `R/analysis/02_fit_release_weibull.R`
 3. `R/analysis/03_fit_mouse_iv.R`

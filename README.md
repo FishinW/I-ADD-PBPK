@@ -7,9 +7,6 @@ This repository contains the R/mrgsolve implementation of the I-ADD PBPK model, 
 - `R/models/`: mrgsolve model definitions.
 - `R/analysis/`: release fitting, PBPK fitting/evaluation, sensitivity analysis, and Monte Carlo simulation scripts.
 - `data/`: PK, device, and release-profile input data.
-- `results/`: generated tables and figures.
-- `archive/original_code/`: original submitted scripts retained for traceability.
-- `docs/FILE_MAP.md`: mapping from original filenames to repository filenames.
 
 ## Required R packages
 
